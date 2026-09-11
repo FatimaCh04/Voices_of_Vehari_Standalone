@@ -1,0 +1,40 @@
+{
+    "name": "voices_of_vehari_standalone",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "preview": "vite preview",
+        "build": "vite build",
+        "dev": "vite"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FatimaCh04/Voices_of_Vehari_Standalone.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/FatimaCh04/Voices_of_Vehari_Standalone/issues"
+    },
+    "homepage": "https://github.com/FatimaCh04/Voices_of_Vehari_Standalone#readme",
+    "dependencies": {
+        "@supabase/supabase-js": "^2.116.0",
+        "date-fns": "^4.4.0",
+        "lucide-react": "^1.44.0",
+        "react": "^19.3.0",
+        "react-dom": "^19.3.0",
+        "react-hook-form": "^7.87.0",
+        "react-router-dom": "^7.18.3"
+    },
+    "devDependencies": {
+        "@tailwindcss/postcss": "^4.3.3",
+        "@vitejs/plugin-react": "^6.1.1",
+        "autoprefixer": "^10.5.6",
+        "postcss": "^8.5.28",
+        "tailwindcss": "^4.3.3",
+        "vite": "^8.3.0"
+    }
+}
